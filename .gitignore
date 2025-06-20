@@ -183,6 +183,11 @@ cython_debug/
 # Ruff stuff:
 .ruff_cache/
 
+# Ignore generated image files
+*.png
+*.jpg
+*.jpeg
+
 # PyPI configuration file
 .pypirc
 
